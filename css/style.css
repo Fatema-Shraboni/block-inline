@@ -1,0 +1,17 @@
+.mydiv{
+	border: 5px solid red;
+	background-color: lightblue;
+	text-align: center;
+}
+.design{
+	border: 1px solid white;
+	padding: 4px;
+	margin: auto;
+}
+.style{
+	background-color: black;
+	color: white;
+	font-style: italic;
+	padding: 2px;
+	text-align: center;
+}
